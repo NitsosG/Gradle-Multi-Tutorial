@@ -5,6 +5,9 @@
 ### Gradle ###
 .gradle
 build/
+gradlew
+gradle/**
+gradlew.bat
 
 # Ignore Gradle GUI config
 gradle-app.setting
